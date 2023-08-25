@@ -1,0 +1,25 @@
+.item {
+  font-size: 14px;
+  color: gray;
+}
+
+.item-container {
+  justify-content: center !important;
+}
+
+.price {
+  margin-left: 10px;
+}
+
+.divider {
+  background-color: black;
+  width: 70px;
+  border-width: 2px !important;
+}
+
+.divider-container {
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  margin-bottom: 20px;
+}

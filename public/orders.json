@@ -1,0 +1,104 @@
+[
+  {
+    "isFetchedFromStorage": true,
+    "orderid": "1",
+    "tip": 0,
+    "discount": 0,
+    "count": 3,
+    "discountSum": 22.2,
+    "dishesSum": 111,
+    "totalSum": 111,
+    "orderType": 0,
+    "items": [
+      {
+        "dishId": "3",
+        "itemName": "סלט מהמזרח הרחוק",
+        "refId": 4069,
+        "price": 33,
+        "quantity": 1,
+        "remarks": "",
+        "netId": "3",
+        "unitPrice": 33,
+        "uId": "0bb91dc9-9123-4a96-82ea-a3d4b625be66",
+        "remarksFirst": false
+      },
+      {
+        "dishId": "2",
+        "itemName": "סלט עוף תאילנדי",
+        "refId": 4068,
+        "price": 45,
+        "quantity": 1,
+        "remarks": "",
+        "netId": "2",
+        "unitPrice": 45,
+        "uId": "5bec2d2d-9b86-41e3-abce-fa512348933e",
+        "remarksFirst": false
+      },
+      {
+        "dishId": "3",
+        "itemName": "סלט מהמזרח הרחוק",
+        "refId": 4069,
+        "price": 33,
+        "quantity": 1,
+        "remarks": "",
+        "netId": "3",
+        "unitPrice": 33,
+        "uId": "2c706ab8-1cdf-42d5-8683-702593fb0988",
+        "remarksFirst": false
+      }
+    ],
+    "dinners": 1,
+    "isSitting": false
+  },
+  {
+    "isFetchedFromStorage": true,
+    "orderid": "2",
+    "tip": 0,
+    "discount": 0,
+    "count": 3,
+    "discountSum": 23.8,
+    "dishesSum": 119,
+    "totalSum": 119,
+    "orderType": 0,
+    "items": [
+      {
+        "dishId": "6",
+        "itemName": "ספיישל מאגורו",
+        "refId": 4072,
+        "price": 35,
+        "quantity": 1,
+        "remarks": "",
+        "netId": "6",
+        "unitPrice": 35,
+        "uId": "62be031b-844d-473a-9e08-bdbea07157a2",
+        "remarksFirst": false
+      },
+      {
+        "dishId": "8",
+        "itemName": "מאקי טונה אבוקדו",
+        "refId": 4074,
+        "price": 35,
+        "quantity": 1,
+        "remarks": "",
+        "netId": "8",
+        "unitPrice": 35,
+        "uId": "c01057a0-76b2-4f6c-913e-571177c13498",
+        "remarksFirst": false
+      },
+      {
+        "dishId": "10",
+        "itemName": "קומבינציית טונה",
+        "refId": 4076,
+        "price": 49,
+        "quantity": 1,
+        "remarks": "",
+        "netId": "10",
+        "unitPrice": 49,
+        "uId": "f11e69c3-7a85-42b1-9e90-4d5a035e2d97",
+        "remarksFirst": false
+      }
+    ],
+    "dinners": 1,
+    "isSitting": false
+  }
+]
